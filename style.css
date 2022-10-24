@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-image:url(/image.webp);
+    background-size: 100%;
+    background-repeat: no-repeat;
+   margin-top: 180px;
+    height: 100%;
+
+}
+.maindiv{
+   
+    margin: 200px;
+    padding: 50px;
+    background-color: rgba(0,0,0,);
+    border-radius: 25px;
+    letter-spacing: 4px;
+    font-family: monospace;
+    justify-content: center;
+    align-items: center;
+    margin-top: 25px;
+    margin-left: 10px;
+}
+#png{
+
+    height: 45px;
+    size:15px;
+}
+.main{
+    align-items: center;
+    justify-content: center;
+}
+#username{
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 5px;
+}
+#password{
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 5px;
+}
+#submit{
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 5px;
+}
